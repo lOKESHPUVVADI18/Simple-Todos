@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.todo-list-item {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button {
+  border-radius: 5px;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  background-color: #ffffff;
+  height: 30px;
+  width: 70px;
+  margin-left: 15px;
+}
